@@ -1,5 +1,13 @@
-<<<<<<< HEAD
-# crowd-funding-backend
-=======
-# crowd-funding-backend
->>>>>>> cfb9a2c5c3a3ee04219efda75a9e627cea97108d
+Install the dependencies
+```
+npm install
+```
+Run seeds
+```
+npm run seed
+```
+
+Run backend on 8080 port
+```
+npm start
+```
